@@ -2,7 +2,9 @@
 
 [![Github](https://img.shields.io/github/followers/TalissonJuniorr?label=Follow&style=social)](https://github.com/TalissonJuniorr)
 
-- Founder at [Tekeezy](https://www.linkedin.com/company/tekeezy/)
+- 🏛️ Founder at [Tekeezy](https://www.linkedin.com/company/tekeezy/)
+- ✉️ talisson@tekeezy.com.br
+- 📚 Software Enginer - Tekeezy
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalissonJuniorr&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TalissonJuniorr&theme=github)
